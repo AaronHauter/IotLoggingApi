@@ -1,0 +1,4 @@
+C:\Users\aaron.hauter\Documents\Visual Studio 2015\Projects\IotLoggingApi\Libraries\bin\QA\Gentex.MES.IotLoggingApi.Libraries.dll
+C:\Users\aaron.hauter\Documents\Visual Studio 2015\Projects\IotLoggingApi\Libraries\bin\QA\Gentex.MES.IotLoggingApi.Libraries.pdb
+C:\Users\aaron.hauter\Documents\Visual Studio 2015\Projects\IotLoggingApi\Libraries\obj\QA\Gentex.MES.IotLoggingApi.Libraries.dll
+C:\Users\aaron.hauter\Documents\Visual Studio 2015\Projects\IotLoggingApi\Libraries\obj\QA\Gentex.MES.IotLoggingApi.Libraries.pdb

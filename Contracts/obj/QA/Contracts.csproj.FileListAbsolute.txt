@@ -1,0 +1,6 @@
+C:\Users\aaron.hauter\Documents\Visual Studio 2015\Projects\IotLoggingApi\Contracts\bin\QA\Gentex.MES.IotLoggingApi.Contracts.dll
+C:\Users\aaron.hauter\Documents\Visual Studio 2015\Projects\IotLoggingApi\Contracts\bin\QA\Gentex.MES.IotLoggingApi.Contracts.pdb
+C:\Users\aaron.hauter\Documents\Visual Studio 2015\Projects\IotLoggingApi\Contracts\bin\QA\Newtonsoft.Json.dll
+C:\Users\aaron.hauter\Documents\Visual Studio 2015\Projects\IotLoggingApi\Contracts\bin\QA\Newtonsoft.Json.xml
+C:\Users\aaron.hauter\Documents\Visual Studio 2015\Projects\IotLoggingApi\Contracts\obj\QA\Gentex.MES.IotLoggingApi.Contracts.dll
+C:\Users\aaron.hauter\Documents\Visual Studio 2015\Projects\IotLoggingApi\Contracts\obj\QA\Gentex.MES.IotLoggingApi.Contracts.pdb

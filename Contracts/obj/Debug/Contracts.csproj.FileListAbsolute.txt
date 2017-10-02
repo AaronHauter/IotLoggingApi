@@ -1,0 +1,13 @@
+c:\users\aaron.hauter\documents\visual studio 2015\Projects\ConnectedDeviceLoggingApi\Contracts\bin\Debug\Gentex.MES.IotLoggingApi.Contracts.dll
+c:\users\aaron.hauter\documents\visual studio 2015\Projects\ConnectedDeviceLoggingApi\Contracts\bin\Debug\Gentex.MES.IotLoggingApi.Contracts.pdb
+c:\users\aaron.hauter\documents\visual studio 2015\Projects\ConnectedDeviceLoggingApi\Contracts\bin\Debug\Newtonsoft.Json.dll
+c:\users\aaron.hauter\documents\visual studio 2015\Projects\ConnectedDeviceLoggingApi\Contracts\bin\Debug\Newtonsoft.Json.xml
+c:\users\aaron.hauter\documents\visual studio 2015\Projects\ConnectedDeviceLoggingApi\Contracts\obj\Debug\Gentex.MES.IotLoggingApi.Contracts.dll
+c:\users\aaron.hauter\documents\visual studio 2015\Projects\ConnectedDeviceLoggingApi\Contracts\obj\Debug\Gentex.MES.IotLoggingApi.Contracts.pdb
+C:\Users\aaron.hauter\Documents\Visual Studio 2015\Projects\IotLoggingApi\Contracts\bin\Debug\Gentex.MES.IotLoggingApi.Contracts.dll
+C:\Users\aaron.hauter\Documents\Visual Studio 2015\Projects\IotLoggingApi\Contracts\bin\Debug\Gentex.MES.IotLoggingApi.Contracts.pdb
+C:\Users\aaron.hauter\Documents\Visual Studio 2015\Projects\IotLoggingApi\Contracts\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aaron.hauter\Documents\Visual Studio 2015\Projects\IotLoggingApi\Contracts\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aaron.hauter\Documents\Visual Studio 2015\Projects\IotLoggingApi\Contracts\obj\Debug\Contracts.csprojResolveAssemblyReference.cache
+C:\Users\aaron.hauter\Documents\Visual Studio 2015\Projects\IotLoggingApi\Contracts\obj\Debug\Gentex.MES.IotLoggingApi.Contracts.dll
+C:\Users\aaron.hauter\Documents\Visual Studio 2015\Projects\IotLoggingApi\Contracts\obj\Debug\Gentex.MES.IotLoggingApi.Contracts.pdb

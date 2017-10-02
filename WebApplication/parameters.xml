@@ -1,0 +1,13 @@
+﻿<parameters>
+  <!-- App Settings -->
+
+  <!-- Connection Strings -->
+  <parameter name="IotLoggingConnectionString" defaultvalue="#{CONNECTIONSTRING.PROCESSDATASTATSCONNECTIONSTRING}#" description="Connects to IoT." tags="">
+    <parameterentry kind="XmlFile" match="/configuration/connectionStrings/add[@name='ProcessDataStatsConnectionString']/@connectionString" scope="\\web.config$" />
+  </parameter>
+
+  <!-- system.web -->
+  <parameter name="Compilation.Debug" defaultvalue="#{COMPILATION.DEBUG}#" description="Compilation.Debug description." tags="">
+    <parameterentry kind="XmlFile" match="/configuration/system.web/compilation/@debug" scope="\\web.config$" />
+  </parameter>
+</parameters>

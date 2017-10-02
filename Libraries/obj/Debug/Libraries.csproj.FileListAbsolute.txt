@@ -1,0 +1,8 @@
+c:\users\aaron.hauter\documents\visual studio 2015\Projects\ConnectedDeviceLoggingApi\ConnectedDeviceLoggingApi.Lib\bin\Debug\Gentex.MES.IotLoggingApi.Libraries.dll
+c:\users\aaron.hauter\documents\visual studio 2015\Projects\ConnectedDeviceLoggingApi\ConnectedDeviceLoggingApi.Lib\bin\Debug\Gentex.MES.IotLoggingApi.Libraries.pdb
+c:\users\aaron.hauter\documents\visual studio 2015\Projects\ConnectedDeviceLoggingApi\ConnectedDeviceLoggingApi.Lib\obj\Debug\Gentex.MES.IotLoggingApi.Libraries.dll
+c:\users\aaron.hauter\documents\visual studio 2015\Projects\ConnectedDeviceLoggingApi\ConnectedDeviceLoggingApi.Lib\obj\Debug\Gentex.MES.IotLoggingApi.Libraries.pdb
+C:\Users\aaron.hauter\Documents\Visual Studio 2015\Projects\IotLoggingApi\Libraries\bin\Debug\Gentex.MES.IotLoggingApi.Libraries.dll
+C:\Users\aaron.hauter\Documents\Visual Studio 2015\Projects\IotLoggingApi\Libraries\bin\Debug\Gentex.MES.IotLoggingApi.Libraries.pdb
+C:\Users\aaron.hauter\Documents\Visual Studio 2015\Projects\IotLoggingApi\Libraries\obj\Debug\Gentex.MES.IotLoggingApi.Libraries.dll
+C:\Users\aaron.hauter\Documents\Visual Studio 2015\Projects\IotLoggingApi\Libraries\obj\Debug\Gentex.MES.IotLoggingApi.Libraries.pdb

@@ -1,0 +1,5 @@
+c:\users\aaron.hauter\documents\visual studio 2015\Projects\ConnectedDeviceLoggingApi\ConnectedDeviceLoggingApi.Lib\bin\Debug\ConnectedDeviceLoggingApi.Lib.dll
+c:\users\aaron.hauter\documents\visual studio 2015\Projects\ConnectedDeviceLoggingApi\ConnectedDeviceLoggingApi.Lib\bin\Debug\ConnectedDeviceLoggingApi.Lib.pdb
+c:\users\aaron.hauter\documents\visual studio 2015\Projects\ConnectedDeviceLoggingApi\ConnectedDeviceLoggingApi.Lib\obj\Debug\ConnectedDeviceLoggingApi.Lib.csprojResolveAssemblyReference.cache
+c:\users\aaron.hauter\documents\visual studio 2015\Projects\ConnectedDeviceLoggingApi\ConnectedDeviceLoggingApi.Lib\obj\Debug\ConnectedDeviceLoggingApi.Lib.dll
+c:\users\aaron.hauter\documents\visual studio 2015\Projects\ConnectedDeviceLoggingApi\ConnectedDeviceLoggingApi.Lib\obj\Debug\ConnectedDeviceLoggingApi.Lib.pdb
