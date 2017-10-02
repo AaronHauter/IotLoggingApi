@@ -84,3 +84,4 @@ C:\Users\aaron.hauter\Documents\Visual Studio 2015\Projects\IotLoggingApi\WebApp
 C:\Users\aaron.hauter\Documents\Visual Studio 2015\Projects\IotLoggingApi\WebApplication\bin\System.Web.Http.Owin.xml
 C:\Users\aaron.hauter\Documents\Visual Studio 2015\Projects\IotLoggingApi\WebApplication\obj\QA\Gentex.MES.IotLoggingApi.WebApplication.dll
 C:\Users\aaron.hauter\Documents\Visual Studio 2015\Projects\IotLoggingApi\WebApplication\obj\QA\Gentex.MES.IotLoggingApi.WebApplication.pdb
+C:\Users\aaron.hauter\Documents\Visual Studio 2015\Projects\IotLoggingApi\WebApplication\obj\QA\WebApplication.csprojResolveAssemblyReference.cache
